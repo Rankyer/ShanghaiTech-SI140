@@ -1,6 +1,8 @@
 # ShanghaiTech-SI140
 
-2023 Fall ShanghaiTech SI140 《面向信息科学的概率论与数理统计》  
+2023 Fall ShanghaiTech SI140 
+
+上海科技大学 《面向信息科学的概率论与数理统计》  
 ***Probability and Statistics for Information Science***
  
 *Final Grade : A*
